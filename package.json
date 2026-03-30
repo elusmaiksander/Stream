@@ -1,7 +1,7 @@
 {
   "name": "reflux-br",
-  "version": "5.0.0",
-  "description": "Reflux BR - TMDB + IPTV + 7 provedores de stream",
+  "version": "6.0.0",
+  "description": "Reflux BR - IPTV + TMDB + Stream direto no player",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
@@ -10,7 +10,6 @@
     "node": ">= 18.0.0"
   },
   "dependencies": {
-    "axios": "^1.14.0",
     "stremio-addon-sdk": "^1.6.10"
   }
 }
