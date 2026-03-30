@@ -1,7 +1,7 @@
 {
   "name": "reflux-fixed",
-  "version": "1.0.0",
-  "description": "Reflux - Addon Stremio para Rede Canais (corrigido e funcional)",
+  "version": "1.1.0",
+  "description": "Reflux - Addon Stremio para Rede Canais (corrigido com bypass Cloudflare)",
   "main": "index.js",
   "scripts": {
     "start": "node index.js",
@@ -17,6 +17,7 @@
   "dependencies": {
     "axios": "^1.14.0",
     "cheerio": "^1.2.0",
+    "cloudscraper": "^4.6.0",
     "stremio-addon-sdk": "^1.6.10"
   }
 }
