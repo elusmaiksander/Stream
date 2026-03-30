@@ -1,7 +1,7 @@
 {
-  "name": "reflux-iptv",
-  "version": "4.0.0",
-  "description": "Reflux IPTV - Filmes, séries e TV ao vivo no Stremio",
+  "name": "reflux-br",
+  "version": "5.0.0",
+  "description": "Reflux BR - TMDB + IPTV + 7 provedores de stream",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
