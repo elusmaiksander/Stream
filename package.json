@@ -1,7 +1,7 @@
 {
-  "name": "reflux-br",
-  "version": "2.0.0",
-  "description": "Reflux BR - Addon Stremio com catálogo TMDB e múltiplas fontes de stream",
+  "name": "reflux-iptv",
+  "version": "4.0.0",
+  "description": "Reflux IPTV - Filmes, séries e TV ao vivo no Stremio",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
